@@ -1,2 +1,2 @@
-- Hey
+Hey
 - chrome#1337
